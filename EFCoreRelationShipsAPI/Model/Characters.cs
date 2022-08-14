@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace EFCoreRelationShipsAPI
+namespace EFCoreRelationShipsAPI.Model
 {
     public class Characters
     {

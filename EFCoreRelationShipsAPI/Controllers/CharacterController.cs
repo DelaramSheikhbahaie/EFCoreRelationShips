@@ -1,4 +1,5 @@
 ﻿
+using EFCoreRelationShipsAPI.Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EFCoreRelationShipsAPI.Controllers

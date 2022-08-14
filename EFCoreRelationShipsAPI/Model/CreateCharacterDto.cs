@@ -1,4 +1,4 @@
-﻿namespace EFCoreRelationShipsAPI
+﻿namespace EFCoreRelationShipsAPI.Model
 {
     public class CreateWeaponDto
     {

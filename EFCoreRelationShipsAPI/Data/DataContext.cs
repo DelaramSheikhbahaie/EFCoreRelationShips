@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EFCoreRelationShipsAPI.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace EFCoreRelationShipsAPI.Data
 {
